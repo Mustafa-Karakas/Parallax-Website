@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,900&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+
+}
+
+.container-img1 {
+  background-image: url(./img/bg.jpg);
+  height: 100vh;
+}
+
+.container-img1 {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header span {
+  font-size: 2rem;
+  font-weight: 500;
+  letter-spacing: 7px;
+  color: white;
+  background-color: rgb(15, 15, 15);
+  padding: 1rem;
+  border-top-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  outline-style: solid;
+  outline-width: 0.4rem;
+  outline-color: rgb(97, 39, 97);
+  outline-offset: 0.5rem;
+}
+
+.section-1 {
+  background-color: rgb(241, 241, 241);
+  color: rgb(102, 102, 102);
+  padding: 5rem;
+  text-align: center;
+}
+
+.section-1 p {
+  margin-top: 1.5rem;
+  font-size: 1rem;
+  line-height: 1.8rem;
+}
+
+.container-img2 {
+  background-image: url(./img/bg2.jpg);
+  height: 100vh;
+}
+
+.container-img2 {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  opacity: 0.7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-img2  img {
+  width: 30%;
+}
+
+.section-2 {
+  background-color: #282E34;
+  color: white;
+  padding: 5rem;
+  text-align: center;
+}
+
+.section-2 p {
+  margin-top: 1.5rem;
+  font-size: 1rem;
+  line-height: 1.8rem;
+}
+
+.container-img3 {
+  background-image: url(./img/bg3.jpg);
+  height: 100vh;
+}
+
+.container-img3 {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.reinvent {
+display: flex;
+flex-wrap: wrap;
+text-align: center;
+}
+
+.reinvent span {
+  font-size: 3rem;
+  font-weight: 500;
+  letter-spacing: 7px;
+  color: white;
+  background-color: rgb(15, 15, 15);
+  padding: 1rem;
+  border-top-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  outline-style: solid;
+  outline-width: 0.4rem;
+  outline-color: rgb(97, 39, 97);
+  outline-offset: 0.2rem;
+  
+}
+
+.section-3 {
+  background-color: rgb(241, 241, 241);
+  color: rgb(102, 102, 102);
+  padding: 5rem;
+  text-align: center;
+}
+
+.section-3 p {
+  margin-top: 1.5rem;
+  font-size: 1rem;
+  line-height: 1.8rem;
+}
+
+.container-img4 {
+  background-image: url(./img/bg4.jpg);
+  height: 100vh;
+}
+
+.container-img4 {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.team span {
+  font-size: 3rem;
+  font-weight: 500;
+  letter-spacing: 7px;
+  color: white;
+  background-color: rgb(15, 15, 15);
+  padding: 1rem;
+  border-top-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  outline-style: solid;
+  outline-width: 0.4rem;
+  outline-color: rgb(97, 39, 97);
+  outline-offset: 0.2rem;
+}
+
+.section-4 {
+  background-color: #282E34;
+  color: white;
+  padding: 5rem;
+  text-align: center;
+}
+
+.section-4 p {
+  margin-top: 1.5rem;
+  font-size: 1rem;
+  line-height: 1.8rem;
+}
+
+.container-img5 {
+  background-image: url(./img/bg1.jpg);
+  height: 100vh;
+}
+
+.container-img5 {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.future span {
+  font-size: 3rem;
+  font-weight: 500;
+  letter-spacing: 7px;
+  color: white;
+  background-color: rgb(15, 15, 15);
+  padding: 2rem;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  outline-style: solid;
+  outline-width: 0.5rem;
+  outline-color: rgb(97, 39, 97);
+  outline-offset: 0.7rem;
+}
